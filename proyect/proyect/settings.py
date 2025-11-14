@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    
+    'compilador2-7ppj.onrender.com'
     # Añade aquí el dominio de tu frontend si lo tienes
 ]
 
